@@ -118,4 +118,4 @@ Screenshot — Preview of the project output
 Conclusion
 This project demonstrates basic 2D computer graphics using OpenGL GLUT. It uses different drawing primitives, colors, transformations, and animation techniques to create an interactive-looking village environment.
 ## Output Preview
-![2D Village Scene](village-scene.png)
+![Project Output](Screenshot%20%2875%29.png)
